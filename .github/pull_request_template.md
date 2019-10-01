@@ -1,6 +1,6 @@
 ## Description
 
-Provide good description of your PR. Explain why it was necessary or link to issue.
+Provide good description of your PR. Explain what problem does it solve or link to issue.
 
 ## Code review
 
@@ -18,7 +18,7 @@ Your PR changed UI. Include some screenshots/gifs of the app after your changes.
 
 Closes #issue_number
 
-<-- REMOVE WHEN CREATING PR -->
+[REMOVE WHEN CREATING PR]
 
 ## Checklist
 
@@ -27,3 +27,5 @@ Closes #issue_number
 - [ ] this is atomic PR and cannot be split into multiple
 - [ ] no commented code left
 - [ ] self code review done
+
+[REMOVE WHEN CREATING PR]
